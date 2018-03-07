@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background: steelblue;
+    width: 200px;
+    height: 1000px;
+    display: inline-block;
+    margin: 0px 200px 10px 0px;
+}
+
+li {
+    display: block;
+    font-size: 40px;
+}
+
+a {
+    color: white;
+}
+
+img {
+    height: 300px;
+    margin: 10px;
+}
+
+p {
+    display: block;
+    width: 500px;
+    /*margin-left: 200px;*/
+}
+
+div {
+    display: inline-block;
+    float: right;
+    margin-right: 30%;
+}
